@@ -33,4 +33,5 @@ public class App {
         System.out.println("Aktueller Kontostand von konto2: " + konto2.getKontostand());
         System.out.println("Aktueller Kontostand von konto3: " + konto3.getKontostand());
     }
+
 }
